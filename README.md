@@ -4,7 +4,7 @@ Hi there 👋, my name is Tim
 - [Snake](https://tim0n26.github.io/Snake/)
 - [Teardown](https://tim0n26.github.io/Teardown/)
 - [Memory game](https://tim0n26.github.io/memory-game/)
-etc.
+ etc.
 
 <!--
 **Tim0n26/Tim0n26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
