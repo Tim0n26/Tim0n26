@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 <!--
 **Tim0n26/Tim0n26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
