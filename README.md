@@ -1,6 +1,8 @@
 Hi there 👋, my name is Tim
 - 📫 How to reach me: romtimal26@gmail.com/romtimal261@gmail.com
-- 
+  
+- Snake
+- Teardown
 
 <!--
 **Tim0n26/Tim0n26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
