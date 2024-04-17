@@ -3,7 +3,7 @@ Hi there 👋, my name is Tim
   My projects:
 - [Snake](https://tim0n26.github.io/Snake/),
 - [Teardown](https://tim0n26.github.io/Teardown/),
-- [Memory game](https://tim0n26.github.io/memory-game/)
+- [Memory game](https://tim0n26.github.io/Memory-game/)
  etc.
 
 <!--
