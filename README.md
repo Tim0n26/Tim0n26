@@ -2,9 +2,9 @@ Hi there 👋, my name is Tim
 - 📫 How to reach me: romtimal26@gmail.com/romtimal261@gmail.com
   My projects:
 - [Memory game](https://tim0n26.github.io/Memory-game/),
-- [Teardown](https://tim0n26.github.io/Teardown/),
 - [Snake](https://tim0n26.github.io/Snake/),
-- [Stolovaya](https://tim0n26.github.io/Stolovaya/)
+- [Stolovaya](https://tim0n26.github.io/Stolovaya/),
+- [Teardown](https://tim0n26.github.io/Teardown/)
  etc.
 
 <!--
