@@ -1,6 +1,8 @@
 Hi there 👋, my name is Tim
 - [My codewars](https://www.codewars.com/users/Tim0n26),
 - 📫 How to reach me: romtimal26@gmail.com/romtimal261@gmail.com,
+
+
   My projects:
 - [Memory game](https://tim0n26.github.io/Memory-game/),
 - [Snake](https://tim0n26.github.io/Snake/),
