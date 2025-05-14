@@ -5,6 +5,7 @@ Hi there 👋, my name is Tim
 - [Memory game](https://tim0n26.github.io/Memory-game/),
 - [Snake](https://tim0n26.github.io/Snake/),
 - [Stolovaya](https://tim0n26.github.io/Stolovaya/),
+- [Zombie Shooter](https://tim0n26.github.io/Zombie/),
 - [Teardown(my first project)](https://tim0n26.github.io/Teardown/)
  etc.
 
